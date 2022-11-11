@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bff59f1ce609945",
+            "id": "ef9a075de035e4e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-11.md",
+                "file": "Notes/Git SubModules.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fba65d21323331f",
+            "id": "dde44ad03b07b08b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test note.md",
+                "file": "Notes/Git SubModules.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,9 +61,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Slide",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -91,6 +91,7 @@
       {
         "id": "3bea5d793e53788d",
         "type": "tabs",
+        "dimension": 61.81640625,
         "children": [
           {
             "id": "1454c2e3d3f6ba4d",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test note.md",
+                "file": "Notes/Git SubModules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test note.md",
+                "file": "Notes/Git SubModules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,19 +139,84 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test note.md"
+                "file": "Notes/Git SubModules.md"
               }
+            }
+          },
+          {
+            "id": "05af4a2420869384",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2bf7b7e1e3f1798",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Git SubModules.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5843581180567526,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "418fe670e41e36a4",
+        "type": "tabs",
+        "dimension": 38.18359375,
+        "children": [
+          {
+            "id": "f1b7014ce56b4212",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 516.5
   },
-  "active": "8fba65d21323331f",
+  "active": "dde44ad03b07b08b",
   "lastOpenFiles": [
+    "Notes/Test note.md",
+    "Notes/Git.md",
+    "Notes/Git SubModules.md",
+    "Examples/Slides.md",
+    "Examples/Checklist.md",
+    "Examples/Admonition.md",
+    "Untitled.md",
     "2022-11-11.md"
   ]
 }

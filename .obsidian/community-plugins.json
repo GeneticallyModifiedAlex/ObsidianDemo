@@ -1,3 +1,12 @@
 [
-  "table-editor-obsidian"
+  "obsidian-kanban",
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-icons-plugin",
+  "url-into-selection",
+  "link-favicon",
+  "obsidian-checklist-plugin",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-admonition"
 ]
